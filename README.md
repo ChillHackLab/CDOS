@@ -1,3 +1,6 @@
+
+<img width="1920" height="800" alt="未命名設計" src="https://github.com/user-attachments/assets/eb349b82-25ce-46da-881b-b74294c95cb1" />
+
 # CDOS - Intelligent DDoS Simulation Tool
 
 ```
@@ -33,7 +36,6 @@ Developed by ChillHack Hong Kong Web Development, Jake.
           Contact: info@chillhack.net
           Website: https://chillhack.net
 ```
-<img width="1063" height="1063" alt="Purple minimalist Tech Company Logo" src="https://github.com/user-attachments/assets/cc027882-8037-4501-95ca-0e0f30f8fea5" />
 
 ## Overview
 CDOS is an intelligent DDoS simulation tool designed for testing network resilience. It supports multiple attack types (HTTP, SYN, UDP, Slowloris, DNS amplification) and features proxy support, IP spoofing (with root privileges), and customizable User-Agent lists.
