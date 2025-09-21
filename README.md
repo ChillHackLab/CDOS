@@ -1,6 +1,6 @@
 # CDOS - Intelligent DDoS Simulation Tool
 
-<img width="1920" height="800" alt="未命名設計" src="https://github.com/user-attachments/assets/eb349b82-25ce-46da-881b-b74294c95cb1" />
+<img width="1920" height="800" alt="cdos" src="https://github.com/user-attachments/assets/030c09b7-6be9-4e74-ad3b-c80f95ebc271" />
 
 ## Overview
 CDOS is an intelligent DDoS simulation tool designed for testing network resilience. It supports multiple attack types (HTTP, SYN, UDP, Slowloris, DNS amplification) and features proxy support, IP spoofing (with root privileges), and customizable User-Agent lists.
